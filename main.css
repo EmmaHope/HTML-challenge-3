@@ -1,0 +1,45 @@
+.context {
+    max-width: 1280px;
+    margin: auto;
+}
+
+.navbar {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav>ul>li{
+    display: inline-block;
+}
+
+.drop{
+    position: relative;
+}
+
+.down{
+    display: none;
+    position: absolute;
+}
+
+.drop:hover .down{
+    display: block;
+    background-color: aqua;
+}
+
+nav ul li a {
+    display: block;
+    text-decoration: none;
+    font-size: 1.5em;
+    padding: 1em;
+    background-color: #DD81E8;
+}
+
+nav ul li a:hover {
+    color: blueviolet;
+    background-color: #C1D4FF;
+}

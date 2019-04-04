@@ -1,0 +1,11 @@
+body{
+    background-image: url(/pictures/white-waves.jpg);
+}
+
+.context{
+    background: white;
+}
+
+.bad{
+    font-size: 1.8em;
+}

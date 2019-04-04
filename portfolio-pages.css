@@ -1,0 +1,23 @@
+body{
+    background-image: url(/pictures/circuit.jpg);
+}
+
+.contain{
+    max-width: 1280px;
+    padding: 1em;
+    justify-content: space-between;
+}
+
+p{
+    float: right;
+    width: 50%;
+    font-size: 1.8em;
+}
+
+.context{
+    background: white;
+}
+
+.hope{
+    width: 50%;
+}
