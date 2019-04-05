@@ -5,4 +5,11 @@ body{
 .context{
     background: white;
     max-width: 1280px;
+    padding: 1em;
+}
+
+p{
+    font-size: 1.8em;
+    width: 75%;
+    padding-left: 5.5em;
 }
